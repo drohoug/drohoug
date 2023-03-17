@@ -10,9 +10,8 @@ drohoug@github:~/README.md #: whoami <br />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drohoug&layout-compact&langs_count&theme=dark"/>
 
 </div>
- 
-## 
- 
-<div>
   
+<div>
+![tryhackme stats](https://raw.githubusercontent.com/<SET_USERNAME_HERE>/<SET_USERNAME_HERE>/master/assets/thm_propic.png)
+<div/>
 
