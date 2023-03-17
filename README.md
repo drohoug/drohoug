@@ -1,4 +1,5 @@
-drohoug@github:~/README.md $: whoami
+drohoug@github:~/README.md #: whoami
+
 Meu nome é Pedro, atualmente estudo programação com foco em segurança da informação. 
 
 
