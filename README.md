@@ -1,13 +1,25 @@
-drohoug@github:~/README.md #: whoami
+ ▓█████▄     ██▀███      ▒█████      ██░ ██     ▒█████      █    ██      ▄████
+ ▒██▀ ██▌   ▓██ ▒ ██▒   ▒██▒  ██▒   ▓██░ ██▒   ▒██▒  ██▒    ██  ▓██▒    ██▒ ▀█▒
+ ░██   █▌   ▓██ ░▄█ ▒   ▒██░  ██▒   ▒██▀▀██░   ▒██░  ██▒   ▓██  ▒██░   ▒██░▄▄▄░
+ ░▓█▄   ▌   ▒██▀▀█▄     ▒██   ██░   ░▓█ ░██    ▒██   ██░   ▓▓█  ░██░   ░▓█  ██▓
+ ░▒████▓    ░██▓ ▒██▒   ░ ████▓▒░   ░▓█▒░██▓   ░ ████▓▒░   ▒▒█████▓    ░▒▓███▀▒
+  ▒▒▓  ▒    ░ ▒▓ ░▒▓░   ░ ▒░▒░▒░     ▒ ░░▒░▒   ░ ▒░▒░▒░    ░▒▓▒ ▒ ▒     ░▒   ▒
+  ░ ▒  ▒      ░▒ ░ ▒░     ░ ▒ ▒░     ▒ ░▒░ ░     ░ ▒ ▒░    ░░▒░ ░ ░      ░   ░
+  ░ ░  ░      ░░   ░    ░ ░ ░ ▒      ░  ░░ ░   ░ ░ ░ ▒      ░░░ ░ ░    ░ ░   ░
+    ░          ░            ░ ░      ░  ░  ░       ░ ░        ░              ░
 
-Meu nome é Pedro, atualmente estudo programação com foco em segurança da informação. 
+
+                              destroy...  then  improve
+
+drohoug@github:~/README.md #: whoami <br /> 
 
 
 <dlv>
   <a href="https://github.com/drohoug">
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=drohoug&show_icons=true&theme=chartreuse-dark&includ_all_comits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=drohoug&theme=dark&includ_all_comits=true&count_private=true"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drohoug&layout-compact&langs_count&theme=chartreuse-dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drohoug&layout-compact&langs_count&theme=dark"/>
 
 </div>
+  
 
