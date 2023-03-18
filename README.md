@@ -12,5 +12,4 @@ drohoug@github:~/README.md #: whoami <br />
 </div>
 
 
-![TryHackMe](https://raw.githubusercontent.com/drohoug/drohoug/master/assets/thm_propic.png)
 
