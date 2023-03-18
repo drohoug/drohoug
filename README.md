@@ -11,5 +11,5 @@ drohoug@github:~/README.md #: whoami <br />
   </a>
 </div>
     
-![TryHackMe Badge](https://raw.githubusercontent.com/drohoug/drohoug/master/assets/thm_propic.png)
+![TryHackMe Badge](https://raw.githubusercontent.com/drohoug/drohoug/main/assets/thm_propic.png)
 
