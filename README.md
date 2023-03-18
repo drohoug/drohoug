@@ -10,7 +10,6 @@ drohoug@github:~/README.md #: whoami <br />
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drohoug&layout-compact&langs_count&theme=dark"/>
   </a>
 </div>
-<img src="https://tryhackme-badges.s3.amazonaws.com/dhgx.png" alt="TryHackMe">
 
 
 <a href="https://tryhackme.com/p/dhgx" target="_blank"><img src="https://user-images.githubusercontent.com/91874521/138829963-7b62f292-24c9-4232-a6f2-2d8df57a68f4.png" alt="TryHackMe"></a>
