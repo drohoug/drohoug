@@ -1,4 +1,4 @@
-drohoug@github:~#: whoami <br /> 
+   drohoug@github:~#: whoami <br /> 
 🐱‍👤 - Studying to be a RedTeamer <br /> 
 🎃 - Learning programming focused on offensive security         <br />
 👨‍💻 - Having fun with computers since I was 12 years old <br /> 
