@@ -12,5 +12,5 @@ drohoug@github:~/README.md #: whoami <br />
 </div>
 
 
-<a href="https://tryhackme.com/p/dhgx" target="_blank"><img src="background-image: url(https://tryhackme-images.s3.amazonaws.com/user-avatars/372a89f449dc893f1ca356bb013272c8.png"></a>
+![TryHackMe](https://raw.githubusercontent.com/drohoug/drohoug/master/assets/thm_propic.png)
 
