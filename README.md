@@ -13,7 +13,6 @@ drohoug@github:~/README.md #: whoami <br />
 <img src="https://tryhackme-badges.s3.amazonaws.com/dhgx.png" alt="TryHackMe">
 
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/dhgx.png" alt="TryHackMe">
-<img src="https://raw.githubusercontent.com/drohoug/drohoug/main/assets/thm_propic.png">
-![tryhackme stats](https://tryhackme-badges.s3.amazonaws.com/dhgx.png)
+<a href="https://tryhackme.com/p/dhgx" target="_blank"><img src="https://user-images.githubusercontent.com/91874521/138829963-7b62f292-24c9-4232-a6f2-2d8df57a68f4.png" alt="TryHackMe"></a>
+
 
