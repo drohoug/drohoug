@@ -11,5 +11,5 @@ drohoug@github:~/README.md #: whoami <br />
 <div/>
 <div>
             ![tryhackme stats]
-  (https://raw.githubusercontent.com/{SET_USERNAME_HERE}/{SET_USERNAME_HERE}/master/assets/thm_propic.png)
+  (https://raw.githubusercontent.com/drohoug/drohoug/master/assets/thm_propic.png)
 <div/>
