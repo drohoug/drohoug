@@ -15,5 +15,5 @@ drohoug@github:~/README.md #: whoami <br />
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/dhgx.png" alt="TryHackMe">
 <img src="https://raw.githubusercontent.com/drohoug/drohoug/main/assets/thm_propic.png">
-![tryhackme stats](https://raw.githubusercontent.com/drohoug/drohoug/master/assets/thm_propic.png)
+![tryhackme stats](https://raw.githubusercontent.com/drohoug/drohoug/main/assets/thm_propic.png)
 
