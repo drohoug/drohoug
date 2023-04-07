@@ -1,5 +1,5 @@
 drohoug@github:~#: whoami <br /> 
-🐱‍👤 - Studying to be a RedTeamer <br /> 
+👹 - Studying to be a RedTeamer <br /> 
 🎃 - Learning programming focused on offensive security         <br />
 👨‍💻 - Having fun with computers since I was 12 years old <br /> 
 🎮 - Fun fact: I learned English playing video games and watching music tutorials on YouTube. <br /> 
