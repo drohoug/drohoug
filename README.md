@@ -1,9 +1,4 @@
-
-<br clear="both">
-
-###
-
-<h5 align="left">Olá, Eu sou o Pedro, e sou <br>apaixonado por tecnologia, e seja bem vindo(a) ao meu perfil! <br><br>Estudando: Python, Segurança da Informação<br><br><br>Rio de Janeiro, Brasil.</h5>
+<h5 align="center">Olá, Eu sou o Pedro, e sou <br>apaixonado por tecnologia, e seja bem vindo(a) ao meu perfil! <br><br>Estudando: Python, Segurança da Informação<br><br><br>Rio de Janeiro, Brasil.</h5>
 
 ###
 
