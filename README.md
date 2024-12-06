@@ -1,8 +1,6 @@
 
 <br clear="both">
 
-<img align="right" height="200" src="https://64.media.tumblr.com/3d7fe78eb5982addc91388370deac1c2/12563a5422792b17-a3/s540x810/e1181db4264f616f16a0a802282fc0d3b894526b.gif"  />
-
 ###
 
 <h5 align="left">Olá, Eu sou o Pedro, e sou <br>apaixonado por tecnologia, e seja bem vindo(a) ao meu perfil! <br><br>Estudando: Python, Segurança da Informação<br><br><br>Rio de Janeiro, Brasil.</h5>
