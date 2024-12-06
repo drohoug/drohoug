@@ -47,7 +47,8 @@
 
 
 <div align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/dhgx.png" alt="Your Image Badge" />
+<img src="https://tryhackme-badges.s3.amazonaws.com/dhgx.png" alt="Your Image Badge" />
+
 </div>
 
 ###
