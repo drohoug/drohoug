@@ -43,6 +43,14 @@
 
 ###
 
+###
+<div align="center>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/dhgx.png" alt="Your Image Badge" />
+</div>
+###
+
+
+
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=drohoug.drohoug&left_color=steelblue&right_color=grey"  />
 </div>
