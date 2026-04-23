@@ -1,6 +1,6 @@
 <h5 align="center">
   Olá, seja bem vindo(a) ao meu perfil! <br><br>
-  Estudando: Python, Segurança da Informação<br><br><br>
+  <br><br><br>
   Rio de Janeiro, Brasil.
 </h5>
 
