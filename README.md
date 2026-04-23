@@ -1,6 +1,5 @@
 <h5 align="center">
   Olá, seja bem vindo(a) ao meu perfil! <br><br>
-  <br><br><br>
   Rio de Janeiro, Brasil.
 </h5>
 
